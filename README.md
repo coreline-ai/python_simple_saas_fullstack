@@ -1,4 +1,4 @@
-# Python Board App 📝
+# Python Board App (Simple Saas)📝
 
 > 사용자 인증, 역할 기반 접근 제어, RESTful API 기능을 갖춘 견고하고 모듈화된 Flask 기반 게시판 애플리케이션입니다.
 
